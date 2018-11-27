@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "190881004900",
+    "firebase_url": "https://abc-call-recorder.firebaseio.com",
+    "project_id": "abc-call-recorder",
+    "storage_bucket": "abc-call-recorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190881004900:android:e79338a9b19dacfc",
+        "android_client_info": {
+          "package_name": "com.abc.callrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190881004900-qiadm508kmf7k5tg94maan9r3nm0ljc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfB-iJ36jpq4PFQoRxNFLCU8eFT3eqDPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

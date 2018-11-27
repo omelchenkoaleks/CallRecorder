@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">190881004900-qiadm508kmf7k5tg94maan9r3nm0ljc2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://abc-call-recorder.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">190881004900</string>
+    <string name="google_api_key" translatable="false">AIzaSyCfB-iJ36jpq4PFQoRxNFLCU8eFT3eqDPg</string>
+    <string name="google_app_id" translatable="false">1:190881004900:android:e79338a9b19dacfc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCfB-iJ36jpq4PFQoRxNFLCU8eFT3eqDPg</string>
+    <string name="google_storage_bucket" translatable="false">abc-call-recorder.appspot.com</string>
+    <string name="project_id" translatable="false">abc-call-recorder</string>
+</resources>
